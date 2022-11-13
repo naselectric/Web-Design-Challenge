@@ -1,0 +1,130 @@
+div.card-img-overlay{
+    position:absolute;
+    top:375px;
+    left:860px;
+    width:100px;
+    height:205px;
+    padding: 0px;
+    border: 3px solid #73A;
+}
+
+
+.navbar{
+    background-color: rgba(224, 43, 185, 0.74);
+}
+
+
+
+.button{
+    padding:5px 200px ;
+    background-color: aquamarine;
+    border-radius: 50%;
+    
+}
+
+
+.hide{
+    display: none;
+}
+
+
+div.test1:hover +.hide{
+    display:block;
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width:800px;
+    height:250px
+    
+}
+
+
+.hide2{
+    display: none;
+}
+
+
+div.test2:hover +.hide2{
+    display:block;
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width:800px;
+    height:250px
+    
+}
+
+
+
+.hide3{
+    display: none;
+}
+
+
+div.test3:hover +.hide3{
+    display:block;
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width:800px;
+    height:250px
+    
+}
+
+
+
+.hide4{
+    display: none;
+}
+
+
+div.test4:hover +.hide4{
+    display:block;
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width:800px;
+    height:250px
+    
+}
+
+
+
+.hide5{
+    display: none;
+}
+
+
+div.test5:hover +.hide5{
+    display:block;
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width:800px;
+    height:250px
+    
+}
+
+
+
+.hide6{
+    display: none;
+}
+
+
+div.test6:hover +.hide6{
+    display:block;
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width:800px;
+    height:250px
+    
+}
+
+
+
+/* .hoverbox img{
+    width: 200px;
+    height: 200px;
+} */
